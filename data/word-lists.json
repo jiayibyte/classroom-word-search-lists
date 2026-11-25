@@ -1,0 +1,729 @@
+{
+  "title": "Curated Classroom Word Search Vocabulary Lists",
+  "source": "https://wordpuzzlegenerator.com/",
+  "license": "MIT",
+  "updated": "2026-11-25",
+  "total_themes": 10,
+  "total_tiers": 30,
+  "total_words": 358,
+  "collections": [
+    {
+      "slug": "halloween",
+      "name": "Halloween",
+      "category": "Holiday & Seasonal",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/halloween/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Kids Easy (Grades K–2)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "PUMPKIN",
+            "GHOST",
+            "BAT",
+            "CAT",
+            "CANDY",
+            "OWL",
+            "MOON",
+            "MASK",
+            "HAT",
+            "WEB"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Classroom Standard (Grades 3–6)",
+          "recommended_grid_size": 14,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "PUMPKIN",
+            "LANTERN",
+            "COSTUME",
+            "SPIDER",
+            "CAULDRON",
+            "SKELETON",
+            "VAMPIRE",
+            "BROOMSTICK",
+            "HAUNTED",
+            "COBWEB",
+            "PHANTOM",
+            "CANDYCORN"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Spooky Challenge (Teens & Adults)",
+          "recommended_grid_size": 18,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "APPARITION",
+            "POLTERGEIST",
+            "MASQUERADE",
+            "GRAVEYARD",
+            "SPELLBOOK",
+            "CANDELABRA",
+            "NIGHTSHADE",
+            "LABYRINTH",
+            "WEREWOLF",
+            "SCARECROW",
+            "ENCHANTED",
+            "MIDNIGHT",
+            "COBBLESTONE",
+            "CATACOMBS"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "christmas",
+      "name": "Christmas",
+      "category": "Holiday & Seasonal",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/christmas/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Kids Easy (Grades K–2)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "SANTA",
+            "SNOW",
+            "TREE",
+            "GIFT",
+            "STAR",
+            "BELL",
+            "ELF",
+            "SLED",
+            "HOLLY",
+            "CANDY"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Family & Classroom (Grades 3–8)",
+          "recommended_grid_size": 15,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "REINDEER",
+            "SNOWFLAKE",
+            "MISTLETOE",
+            "GINGERBREAD",
+            "ORNAMENT",
+            "STOCKING",
+            "NUTCRACKER",
+            "CAROLING",
+            "EVERGREEN",
+            "CANDLELIGHT",
+            "WREATH",
+            "CHIMNEY"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Winter Challenge (Adults & KDP)",
+          "recommended_grid_size": 19,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "POINSETTIA",
+            "FRANKINCENSE",
+            "PEPPERMINT",
+            "YULETIDE",
+            "NATIVITY",
+            "SOLSTICE",
+            "FESTIVITY",
+            "CHESTNUTS",
+            "SLEIGHBELL",
+            "TINSELTOWN",
+            "WINTERTIME",
+            "FROSTBITE",
+            "SUGARPLUM",
+            "BELLRINGERS"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "thanksgiving",
+      "name": "Thanksgiving",
+      "category": "Holiday & Seasonal",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/thanksgiving/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Kids Easy (Grades K–2)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "TURKEY",
+            "CORN",
+            "PIE",
+            "FALL",
+            "LEAF",
+            "THANK",
+            "FEAST",
+            "YAM",
+            "ACORN",
+            "FAMILY"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Classroom & Family (Grades 3–6)",
+          "recommended_grid_size": 14,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "HARVEST",
+            "GRATITUDE",
+            "TURKEY",
+            "CRANBERRY",
+            "STUFFING",
+            "CORNUCOPIA",
+            "PILGRIM",
+            "MAYFLOWER",
+            "PUMPKINPIE",
+            "AUTUMN",
+            "FAMILY",
+            "FEAST"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Autumn Feast Challenge (Adults)",
+          "recommended_grid_size": 18,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "APPRECIATION",
+            "THANKFULNESS",
+            "CORNBREAD",
+            "CENTERPIECE",
+            "SWEETPOTATO",
+            "CASSEROLE",
+            "HOMECOMING",
+            "CELEBRATION",
+            "SETTLEMENT",
+            "ABUNDANCE",
+            "CHESTNUTS",
+            "GATHERING",
+            "GRAVYBOAT",
+            "CRISPMAPLES"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "animals",
+      "name": "Animals",
+      "category": "Kids & Nature",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/animals/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Pets & Farm (Grades K–2)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "PUPPY",
+            "KITTEN",
+            "HORSE",
+            "DUCK",
+            "SHEEP",
+            "GOAT",
+            "BUNNY",
+            "FROG",
+            "FISH",
+            "TURTLE"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Zoo & Wildlife (Grades 3–6)",
+          "recommended_grid_size": 14,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "ELEPHANT",
+            "GIRAFFE",
+            "PENGUIN",
+            "DOLPHIN",
+            "KANGAROO",
+            "CHEETAH",
+            "OCTOPUS",
+            "FLAMINGO",
+            "HEDGEHOG",
+            "PANDA",
+            "LEOPARD",
+            "CHAMELEON"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Global Biomes Challenge (Grades 6+)",
+          "recommended_grid_size": 18,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "PLATYPUS",
+            "ARMADILLO",
+            "WOLVERINE",
+            "ALBATROSS",
+            "SALAMANDER",
+            "CHINCHILLA",
+            "NARWHAL",
+            "CAPYBARA",
+            "BARRACUDA",
+            "ORANGUTAN",
+            "MEERKAT",
+            "DRAGONFLY",
+            "PORCUPINE",
+            "KINGFISHER"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "science",
+      "name": "Science",
+      "category": "School & STEM",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/science/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Elementary Earth & Weather (Grades 2–4)",
+          "recommended_grid_size": 12,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "PLANET",
+            "MAGNET",
+            "WEATHER",
+            "FOSSIL",
+            "CLOUD",
+            "ENERGY",
+            "PLANT",
+            "SOIL",
+            "SOLAR",
+            "ROCKS"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "General Science & Lab (Grades 5–8)",
+          "recommended_grid_size": 15,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "GRAVITY",
+            "MOLECULE",
+            "ECOSYSTEM",
+            "HYPOTHESIS",
+            "MAGNETISM",
+            "ELECTRON",
+            "CATALYST",
+            "SPECTRUM",
+            "OSMOSIS",
+            "NEUTRON",
+            "HABITAT",
+            "FOSSIL"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Biology & Chemistry Honors (Grades 8–12)",
+          "recommended_grid_size": 18,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "MITOCHONDRIA",
+            "PHOTOSYNTHESIS",
+            "CHROMOSOME",
+            "ELECTROLYTE",
+            "EQUILIBRIUM",
+            "THERMODYNAMIC",
+            "ISOTOPE",
+            "CYTOPLASM",
+            "ACCELERATION",
+            "REFRACTION",
+            "CONVECTION",
+            "PRECIPITATE",
+            "VALENCE",
+            "ENZYME"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "math",
+      "name": "Math Vocabulary",
+      "category": "School & STEM",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/math/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Elementary Math (Grades 1–3)",
+          "recommended_grid_size": 11,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "ADD",
+            "SUM",
+            "MINUS",
+            "EQUAL",
+            "SHAPE",
+            "GRAPH",
+            "COUNT",
+            "TENS",
+            "CLOCK",
+            "RULER"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Fractions & Geometry (Grades 4–6)",
+          "recommended_grid_size": 15,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "FRACTION",
+            "PERIMETER",
+            "QUOTIENT",
+            "POLYGON",
+            "EQUATION",
+            "SYMMETRY",
+            "DIAMETER",
+            "EXPONENT",
+            "INTEGER",
+            "PARALLEL",
+            "FACTOR",
+            "TRIANGLE"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Pre-Algebra & Geometry (Grades 7–10)",
+          "recommended_grid_size": 18,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "HYPOTENUSE",
+            "COEFFICIENT",
+            "POLYNOMIAL",
+            "INEQUALITY",
+            "CONGRUENT",
+            "COORDINATE",
+            "RECIPROCAL",
+            "PERPENDICULAR",
+            "PROBABILITY",
+            "QUADRATIC",
+            "ASYMPTOTE",
+            "TANGENT",
+            "VARIABLE",
+            "FUNCTION"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sight-words",
+      "name": "Sight Words",
+      "category": "Early Literacy",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/sight-words/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Pre-Primer & Kindergarten (Dolch)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "THE",
+            "AND",
+            "YOU",
+            "SAID",
+            "LOOK",
+            "MAKE",
+            "PLAY",
+            "COME",
+            "HERE",
+            "JUMP"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "1st & 2nd Grade High-Frequency",
+          "recommended_grid_size": 11,
+          "difficulty": "easy",
+          "word_count": 12,
+          "words": [
+            "BECAUSE",
+            "FRIEND",
+            "SCHOOL",
+            "AROUND",
+            "BEFORE",
+            "LITTLE",
+            "PEOPLE",
+            "ALWAYS",
+            "THROUGH",
+            "TOGETHER",
+            "DIFFERENT",
+            "ANOTHER"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "3rd Grade Fry Fluency List",
+          "recommended_grid_size": 13,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "THOUGHT",
+            "ENOUGH",
+            "COUNTRY",
+            "BETWEEN",
+            "IMPORTANT",
+            "EXAMPLE",
+            "QUESTION",
+            "MOUNTAIN",
+            "CHILDREN",
+            "SENTENCE",
+            "TOGETHER",
+            "SOMETHING"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bible",
+      "name": "Bible",
+      "category": "Faith & Sunday School",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/bible/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Sunday School Kids (Ages 5–8)",
+          "recommended_grid_size": 10,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "NOAH",
+            "ARK",
+            "DOVE",
+            "LOVE",
+            "PRAY",
+            "FAITH",
+            "HOPE",
+            "STAR",
+            "SHEEP",
+            "PEACE"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Scripture & Parables (Grades 3–8)",
+          "recommended_grid_size": 14,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "GENESIS",
+            "SHEPHERD",
+            "PARABLE",
+            "COVENANT",
+            "GALILEE",
+            "PROVERB",
+            "MIRACLE",
+            "PSALMS",
+            "GRACE",
+            "BLESSING",
+            "FAITHFUL",
+            "DISCIPLE"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Books & Bible Study (Adults & Seniors)",
+          "recommended_grid_size": 16,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "DEUTERONOMY",
+            "ECCLESIASTES",
+            "JERUSALEM",
+            "BETHLEHEM",
+            "REVELATION",
+            "PHILIPPIANS",
+            "CORINTHIANS",
+            "SAMARITAN",
+            "BEATITUDES",
+            "TABERNACLE",
+            "PENTECOST",
+            "REDEMPTION",
+            "RIGHTEOUS",
+            "COMPASSION"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "large-print-seniors",
+      "name": "Large Print for Seniors",
+      "category": "Seniors & Accessibility",
+      "use_spanish_alphabet": false,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/large-print-seniors/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Gentle & Memory-Friendly (10 Words)",
+          "recommended_grid_size": 11,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "GARDEN",
+            "SUNRISE",
+            "TEACUP",
+            "MEADOW",
+            "ROBIN",
+            "QUILT",
+            "MUSIC",
+            "HARBOR",
+            "ORCHARD",
+            "BRIDGE"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Classic Leisure (12 Words)",
+          "recommended_grid_size": 13,
+          "difficulty": "easy",
+          "word_count": 12,
+          "words": [
+            "LAVENDER",
+            "SUNFLOWER",
+            "CARDINAL",
+            "ORCHARD",
+            "HARMONY",
+            "COMPASS",
+            "LIGHTHOUSE",
+            "BLUEBELL",
+            "MEADOW",
+            "TEACUP",
+            "SYMPHONY",
+            "QUILTING"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Nostalgia & Travel (14 Words)",
+          "recommended_grid_size": 15,
+          "difficulty": "medium",
+          "word_count": 14,
+          "words": [
+            "BOARDWALK",
+            "POSTCARD",
+            "CAROUSEL",
+            "WATERCOLOR",
+            "GREENHOUSE",
+            "BOOKSHOP",
+            "PENINSULA",
+            "PINECONE",
+            "MARMALADE",
+            "COBBLESTONE",
+            "PORCHSWING",
+            "CATHEDRAL",
+            "WILDFLOWER",
+            "VINEYARD"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "spanish",
+      "name": "Spanish (Español)",
+      "category": "World Languages",
+      "use_spanish_alphabet": true,
+      "interactive_url": "https://wordpuzzlegenerator.com/word-search/spanish/",
+      "tiers": [
+        {
+          "id": "easy",
+          "label": "Español 1 Básico (Principiantes)",
+          "recommended_grid_size": 11,
+          "difficulty": "easy",
+          "word_count": 10,
+          "words": [
+            "HOLA",
+            "AMIGO",
+            "CASA",
+            "GATO",
+            "PERRO",
+            "LIBRO",
+            "AGUA",
+            "SOL",
+            "LUNA",
+            "NIÑO"
+          ]
+        },
+        {
+          "id": "standard",
+          "label": "Vida Cotidiana & Escuela (Intermedio)",
+          "recommended_grid_size": 14,
+          "difficulty": "medium",
+          "word_count": 12,
+          "words": [
+            "ESPAÑOL",
+            "CORAZÓN",
+            "PIÑATA",
+            "MONTAÑA",
+            "ESCUELA",
+            "FAMILIA",
+            "AMIGOS",
+            "VERANO",
+            "ESTRELLA",
+            "MÚSICA",
+            "MAÑANA",
+            "BIBLIOTECA"
+          ]
+        },
+        {
+          "id": "challenge",
+          "label": "Cultura & Viajes (Avanzado / AP)",
+          "recommended_grid_size": 17,
+          "difficulty": "hard",
+          "word_count": 14,
+          "words": [
+            "NATURALEZA",
+            "PRIMAVERA",
+            "ARQUITECTURA",
+            "COMPAÑERO",
+            "TRADICIÓN",
+            "AVENTURA",
+            "LITERATURA",
+            "MARIPOSA",
+            "ESPERANZA",
+            "CONOCIMIENTO",
+            "CUMPLEAÑOS",
+            "UNIVERSO",
+            "HORIZONTE",
+            "AMISTAD"
+          ]
+        }
+      ]
+    }
+  ]
+}
